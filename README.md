@@ -1,3 +1,5 @@
+<p>Team Usernames: MarianJ81, Ronnye, StoyanZhulev, alisa_terzieva</p>
+<br>
 <h1>Travel Guide</h1>
 <h2>1.&nbsp;&nbsp; Requirements</h2>
 <p>Create a Web-based application to help tourists experience their destination by offering information about interesting locations near them. The web application is supposed to include three parts:</p>
